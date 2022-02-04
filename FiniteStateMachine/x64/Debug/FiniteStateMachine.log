@@ -1,3 +1,4 @@
 ﻿  main.cpp
-M:\Uni Year 3\CMP304 - AI\Labs\CMP304-AI_Week_1_FSM\FiniteStateMachine\main.cpp(50): warning C4715: 'getEscKey': not all control paths return a value
+M:\Uni Year 3\CMP304 - AI\Labs\CMP304-AI_Week_1_FSM\FiniteStateMachine\main.cpp(65): warning C4715: 'getEscKey': not all control paths return a value
+M:\Uni Year 3\CMP304 - AI\Labs\CMP304-AI_Week_1_FSM\FiniteStateMachine\main.cpp(169): warning C4715: 'emotionEvent': not all control paths return a value
   FiniteStateMachine.vcxproj -> M:\Uni Year 3\CMP304 - AI\Labs\CMP304-AI_Week_1_FSM\x64\Debug\FiniteStateMachine.exe
